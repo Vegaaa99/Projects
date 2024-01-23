@@ -1,4 +1,4 @@
-### About this Repository 
+### About this Repository ###
 
 <p>
 In this repository, you will find three folders corresponding to projects completed during my college degree.
